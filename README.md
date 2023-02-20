@@ -15,6 +15,7 @@ You can use this code not just for this bootcamp, it can be adjusted to any need
 
 
 ![alt text](/prework-study-guide/assets/Title_header.png)
+![alt text](/prework-study-guide/assets/Section_header.png)
 
 
 ## License
